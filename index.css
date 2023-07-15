@@ -28,5 +28,31 @@ nav .menu{
 }
 
 .menu .logo a{
-    
+    text-decoration: none;
+    color: #fff;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.menu ul{
+    display: inline-flex;
+}
+
+.menu ul li{
+    list-style: none;
+    margin-left: 8px;
+}
+
+.menu ul li:first-child{
+    margin-left: 0px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
 }
