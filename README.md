@@ -1,2 +1,2 @@
-﻿# Simple webpage (Demo)
+﻿# Simple webpage 
 WEBPAGE WITH JOKER WALLPAPER
